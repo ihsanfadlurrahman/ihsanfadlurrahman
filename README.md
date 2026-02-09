@@ -5,7 +5,7 @@
 
 ### 🌐 Connect with Me
 <p>
-  <a href="[https://linkedin.com/in/USERNAME_LU](https://www.linkedin.com/in/ihsan-fadlurrahman-4635262a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="(https://www.linkedin.com/in/ihsan-fadlurrahman-4635262a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://instagram.com/isn.dev">
