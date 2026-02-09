@@ -1,12 +1,7 @@
 # ihsanfadlurrahman
 
-<h1 align="center">Hi 👋, I'm Ihsan Fadlurrahman</h1>
-<h3 align="center">Junior Backend Developer</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsanfadlurrahman&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsanfadlurrahman&layout=compact&theme=dark" />
-</p>
+<h1>Hi 👋, I'm Ihsan Fadlurrahman</h1>
+<h3>Junior Backend Developer</h3>
 
 ---
 
