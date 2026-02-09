@@ -1,5 +1,3 @@
-# ihsanfadlurrahman
-
 <h1>Hi 👋, I'm Ihsan Fadlurrahman</h1>
 <h3>Junior Backend Developer</h3>
 
